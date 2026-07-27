@@ -1,8 +1,14 @@
 aid: homefirst
 name: HomeFirst
-description: 'HomeFirst is a company surfaced as a portfolio company of bessemer-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'HomeFirst (Home First Finance Company India Limited) is an affordable-housing finance
+  company headquartered in Mumbai, India, that provides home loans, self-construction and resale
+  loans, loans against property, shop loans, and renovation/top-up loans to first-time and lower-
+  to middle-income home buyers across India, marketing itself as "India''s Home Loan Expert" with
+  approval within 48 hours. It is a technology-led lender operating consumer-facing customer and
+  connector portals and mobile apps, and is a publicly listed company backed by Bessemer Venture
+  Partners. It was surfaced as a Bessemer portfolio company and added to the API Evangelist network;
+  it publishes no public developer portal, API documentation, or machine-readable API artifacts at
+  this time, so this profile captures its public web/identity and domain-security posture only.'
 url: https://raw.githubusercontent.com/api-evangelist/homefirst/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +16,31 @@ x-backed-by:
 - bessemer-venture-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://homefirst-website-prod-mum.s3.ap-south-1.amazonaws.com/assets/images/icons/homeFirstLogo.svg
 tags:
 - Company
 - Consumer
+- Financial Services
+- Housing Finance
+- Home Loans
+- Mortgage
+- Lending
+- India
+- Fintech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +48,20 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/homefirst-domain-security.yml
 - type: Website
   url: https://www.homefirstindia.com/
+- type: Blog
+  url: https://homefirstindia.com/blog/
+- type: Support
+  url: https://homefirstindia.com/contact
+- type: TermsOfService
+  url: https://homefirstindia.com/terms
+- type: PrivacyPolicy
+  url: https://homefirstindia.com/privacy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
