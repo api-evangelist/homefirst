@@ -45,7 +45,7 @@ image: https://homefirst-website-prod-mum.s3.ap-south-1.amazonaws.com/assets/ima
 tags:
 - Company
 - Consumer
-- Financial-Services
+- Financial Services
 - Housing Finance
 - Home Loans
 - Mortgage
@@ -62,6 +62,7 @@ tags_raw:
 - Lending
 - India
 - Fintech
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
