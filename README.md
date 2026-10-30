@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HomeFirst is a company surfaced as a portfolio company of bessemer-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+HomeFirst (Home First Finance Company India Limited) is an affordable-housing finance company headquartered in Mumbai, India, that provides home loans, self-construction and resale loans, loans against property, shop loans, and renovation/top-up loans to first-time and lower- to middle-income home buyers across India, marketing itself as "India's Home Loan Expert" with approval within 48 hours. It is a technology-led lender operating consumer-facing customer and connector portals and mobile apps, and is a publicly listed company backed by Bessemer Venture Partners. It was surfaced as a Bessemer portfolio company and added to the API Evangelist network; it publishes no public developer portal, API documentation, or machine-readable API artifacts at this time, so this profile captures its public web/identity and domain-security posture only.
 
-Backed by: bessemer-venture-partners — https://www.homefirstindia.com/
+**Areas:** Company · Consumer · Financial Services · Housing Finance · Home Loans · Mortgage · Lending · India · Fintech
+
+## HomeFirst on APIs.io
+
+Everything profiled for HomeFirst is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/homefirst/](https://apis.io/providers/homefirst/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Homefirst Domain Security](https://apis.io/security/homefirst/homefirst-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.homefirstindia.com/)
+- [Support](https://homefirstindia.com/contact)
+- [Blog](https://homefirstindia.com/blog/)
+- [Terms of service](https://homefirstindia.com/terms)
+- [Privacy policy](https://homefirstindia.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 10.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/homefirst/](https://apis.io/providers/homefirst/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HomeFirst: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/homefirst/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
